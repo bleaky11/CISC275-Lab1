@@ -3,12 +3,14 @@ below variables and update them with stuff about you. Yeah... I know... the clas
 everyone dreads at the start of the semester. Sorry, I just needed a filler for you guys to edit. */
 
 
-const yourName : String = "Levi Chen";
-let yourPronouns : String = "He/Him";
-const yourMajor : String = "Computer Science";
-let classification : String = "Junior";
-let oneExcite : String = "Learning to make a website";
-let anyConcerns : String = "If I will have enough time to work on homeworks";
-let funFact : String = "I went on vacation in China last summer";
+/*Un-comment this and fill in the info
+const yourName : String = "Your name";
+let yourPronouns : String = "Pro/Nouns";
+const yourMajor : String = "Your major";
+let classification : String = "freshman/soph/junior/senior/supersenior";
+let oneExcite : String = "One thing you're excited about in this course";
+let anyConcerns : String = "If anything, list what you may be worried about in this course";
+let funFact : String = "And the classic, list one fun fact about yourself";
+*/
 
 
